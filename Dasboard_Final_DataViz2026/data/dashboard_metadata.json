@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-11-02T04:38:05",
+  "aiid": {
+    "last_incident_date": "2026-10-22",
+    "partial_year": 2026,
+    "plot_from_year": 2015,
+    "incidents": 1775
+  },
+  "euvsdisinfo": {
+    "first_date": "2015-01-06",
+    "last_date": "2023-08-01",
+    "incomplete_tail_months": [
+      "2023-06",
+      "2023-07"
+    ]
+  },
+  "thai_panel": {
+    "first_week": "2018-12-30",
+    "last_week": "2026-10-25",
+    "partial_weeks": 0,
+    "afnc_last_item_date": "2026-10-31"
+  },
+  "acsc": {
+    "first_reported_week": "2025-11-09",
+    "last_reported_week": "2026-10-18",
+    "weeks_reported": 48,
+    "suspect_weeks_excluded": [
+      "2026-08-16"
+    ],
+    "overlap_weeks_excluded": [
+      "2026-05-31"
+    ],
+    "primary_valid_weeks": 46,
+    "sensitivity_valid_weeks": 47
+  },
+  "ai_deepfake": {
+    "strict_keyword_incidents": 565,
+    "broad_keyword_incidents": 617,
+    "sector_coverage_pct_of_strict_candidates": 1.238938053097345,
+    "classification_note": "Keyword-based candidate set; not expert-confirmed Deepfake classification"
+  },
+  "notes": [
+    "AIID: ปีล่าสุดมีข้อมูลไม่ครบ ใช้ ytd_incidents เมื่อเทียบกับปีก่อน; วันที่เป็นวันเกิดเหตุ จึงอาจถูกบันทึกเพิ่มย้อนหลัง",
+    "Deepfake share มาจาก keyword ไม่ใช่การยืนยันโดยผู้เชี่ยวชาญ",
+    "EUvsDisinfo ไม่ซ้อนช่วงเวลากับ AFNC/ACSC ส่วนใหญ่ เปรียบเทียบเชิงเนื้อหาเท่านั้น",
+    "ACSC มีข้อมูลเฉพาะบางช่วง ไม่มีข้อมูลประเภทคดีรายระเบียน ห้ามจัดอันดับมูลค่ารวมรายประเภท",
+    "Primary Analysis ตัดสัปดาห์ Suspect และช่วงประกาศ 8 วันที่ทับซ้อน; Sensitivity รวม Suspect แต่ยังตัดช่วง 8 วัน",
+    "สัปดาห์ 8 วันถูกเก็บไว้ในข้อมูลดิบและแสดง Flag แต่ไม่รวมกับการวิเคราะห์ที่เปรียบเทียบสัปดาห์ละ 7 วัน",
+    "ความสัมพันธ์ข่าวเท็จ-คดีเป็นการสำรวจ ไม่พิสูจน์เหตุและผล"
+  ]
+}

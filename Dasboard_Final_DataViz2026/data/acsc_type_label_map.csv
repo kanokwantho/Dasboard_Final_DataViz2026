@@ -1,0 +1,24 @@
+﻿raw_label,weeks,source_column,normalized_label
+การหลอกซื้อขายสินค้าออนไลน์,5,acsc_top_type_th,Goods & services (online shopping)
+การหลอกลวงซื้อขายสินค้าหรือบริการ,2,acsc_top_type_th,Goods & services (online shopping)
+การหลอกลวงด้านสินค้าและบริการ,24,acsc_top_type_th,Goods & services (online shopping)
+หลอกซื้อ-ขายสินค้า,2,acsc_top_type_th,Goods & services (online shopping)
+หลอกซื้อขายสินค้าหรือบริการ,1,acsc_top_type_th,Goods & services (online shopping)
+หลอกซื้อขายสินค้าหรือบริการออนไลน์,1,acsc_top_type_th,Goods & services (online shopping)
+หลอกซื้อขายสินค้าออนไลน์,9,acsc_top_type_th,Goods & services (online shopping)
+หลอกลวงซื้อขายสินค้าและบริการ,2,acsc_top_type_th,Goods & services (online shopping)
+การหลอกลวงด้านการเงินและการลงทุน,7,acsc_highest_loss_type_th,Investment scam
+การหลอกลวงด้านสินค้าและบริการ,8,acsc_highest_loss_type_th,Goods & services (online shopping)
+การหลอกลวงโดยการแอบอ้างบุคคลอื่น,5,acsc_highest_loss_type_th,Impersonation
+การหลอกลวงโดยการแอบอ้างเป็นบุคคลอื่น,1,acsc_highest_loss_type_th,Impersonation
+การหลอกโอนเงินเพื่อรับรางวัล,3,acsc_highest_loss_type_th,Prize / fee-transfer scam
+การหลอกให้ลงทุนผ่านระบบคอมพิวเตอร์,3,acsc_highest_loss_type_th,Investment scam
+การหลอกให้โอนเงินเพื่อรับรางวัล,1,acsc_highest_loss_type_th,Prize / fee-transfer scam
+ข่มขู่ทางโทรศัพท์,3,acsc_highest_loss_type_th,Phone intimidation
+หลอกทำงานออนไลน์,1,acsc_highest_loss_type_th,Job / side-income scam
+หลอกลงทุน,4,acsc_highest_loss_type_th,Investment scam
+หลอกให้ลงทุน,3,acsc_highest_loss_type_th,Investment scam
+หลอกให้ลงทุนผ่านระบบคอมพิวเตอร์,2,acsc_highest_loss_type_th,Investment scam
+หลอกให้โอนเงินเพื่อรับรางวัล,1,acsc_highest_loss_type_th,Prize / fee-transfer scam
+หลอกให้โอนเงินเพื่อรับรางวัล / หลอกให้โอนเงินเพื่อหารายได้พิเศษ (tied),1,acsc_highest_loss_type_th,Multiple / ambiguous
+หลอกให้โอนเงินเพื่อหารายได้พิเศษ,2,acsc_highest_loss_type_th,Job / side-income scam

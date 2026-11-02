@@ -1,0 +1,8 @@
+﻿check,status,detail
+Thai weekly master exists,PASS,rows=409
+Unique week_start in Thai dashboard master,PASS,duplicate week_start=0
+No Suspect values in Primary cleaned cases,PASS,suspect rows retaining cleaned cases=0
+No overlap values in Primary cleaned cases,PASS,overlap rows retaining cleaned cases=0
+Cleaned loss per case recomputed,PASS,computed as cleaned loss / cleaned cases
+Key findings included,PASS,rows=26
+Metadata included,PASS,dashboard_metadata.json present

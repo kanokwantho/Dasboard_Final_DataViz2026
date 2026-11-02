@@ -1,0 +1,217 @@
+﻿year,risk_domain,incidents
+1983,"AI system safety, failures, and limitations",1
+1983,Discrimination and Toxicity,0
+1983,Human-Computer Interaction,0
+1983,Malicious Actors & Misuse,0
+1983,Misinformation,0
+1983,Privacy & Security,0
+1983,Socioeconomic & Environmental Harms,0
+1983,Uncategorized,0
+1992,"AI system safety, failures, and limitations",1
+1992,Discrimination and Toxicity,0
+1992,Human-Computer Interaction,0
+1992,Malicious Actors & Misuse,0
+1992,Misinformation,0
+1992,Privacy & Security,0
+1992,Socioeconomic & Environmental Harms,0
+1992,Uncategorized,0
+1996,"AI system safety, failures, and limitations",0
+1996,Discrimination and Toxicity,0
+1996,Human-Computer Interaction,0
+1996,Malicious Actors & Misuse,0
+1996,Misinformation,0
+1996,Privacy & Security,0
+1996,Socioeconomic & Environmental Harms,1
+1996,Uncategorized,0
+1998,"AI system safety, failures, and limitations",0
+1998,Discrimination and Toxicity,1
+1998,Human-Computer Interaction,0
+1998,Malicious Actors & Misuse,0
+1998,Misinformation,0
+1998,Privacy & Security,0
+1998,Socioeconomic & Environmental Harms,0
+1998,Uncategorized,0
+1999,"AI system safety, failures, and limitations",0
+1999,Discrimination and Toxicity,1
+1999,Human-Computer Interaction,0
+1999,Malicious Actors & Misuse,0
+1999,Misinformation,0
+1999,Privacy & Security,0
+1999,Socioeconomic & Environmental Harms,0
+1999,Uncategorized,0
+2003,"AI system safety, failures, and limitations",2
+2003,Discrimination and Toxicity,1
+2003,Human-Computer Interaction,0
+2003,Malicious Actors & Misuse,0
+2003,Misinformation,0
+2003,Privacy & Security,1
+2003,Socioeconomic & Environmental Harms,0
+2003,Uncategorized,0
+2006,"AI system safety, failures, and limitations",0
+2006,Discrimination and Toxicity,1
+2006,Human-Computer Interaction,0
+2006,Malicious Actors & Misuse,0
+2006,Misinformation,0
+2006,Privacy & Security,0
+2006,Socioeconomic & Environmental Harms,0
+2006,Uncategorized,0
+2007,"AI system safety, failures, and limitations",1
+2007,Discrimination and Toxicity,0
+2007,Human-Computer Interaction,0
+2007,Malicious Actors & Misuse,0
+2007,Misinformation,0
+2007,Privacy & Security,0
+2007,Socioeconomic & Environmental Harms,0
+2007,Uncategorized,0
+2008,"AI system safety, failures, and limitations",0
+2008,Discrimination and Toxicity,2
+2008,Human-Computer Interaction,0
+2008,Malicious Actors & Misuse,0
+2008,Misinformation,0
+2008,Privacy & Security,1
+2008,Socioeconomic & Environmental Harms,0
+2008,Uncategorized,0
+2009,"AI system safety, failures, and limitations",2
+2009,Discrimination and Toxicity,0
+2009,Human-Computer Interaction,0
+2009,Malicious Actors & Misuse,0
+2009,Misinformation,0
+2009,Privacy & Security,0
+2009,Socioeconomic & Environmental Harms,0
+2009,Uncategorized,0
+2010,"AI system safety, failures, and limitations",0
+2010,Discrimination and Toxicity,0
+2010,Human-Computer Interaction,0
+2010,Malicious Actors & Misuse,1
+2010,Misinformation,0
+2010,Privacy & Security,0
+2010,Socioeconomic & Environmental Harms,0
+2010,Uncategorized,0
+2011,"AI system safety, failures, and limitations",1
+2011,Discrimination and Toxicity,0
+2011,Human-Computer Interaction,0
+2011,Malicious Actors & Misuse,0
+2011,Misinformation,1
+2011,Privacy & Security,0
+2011,Socioeconomic & Environmental Harms,1
+2011,Uncategorized,0
+2012,"AI system safety, failures, and limitations",3
+2012,Discrimination and Toxicity,5
+2012,Human-Computer Interaction,0
+2012,Malicious Actors & Misuse,0
+2012,Misinformation,0
+2012,Privacy & Security,0
+2012,Socioeconomic & Environmental Harms,0
+2012,Uncategorized,0
+2013,"AI system safety, failures, and limitations",3
+2013,Discrimination and Toxicity,2
+2013,Human-Computer Interaction,0
+2013,Malicious Actors & Misuse,0
+2013,Misinformation,0
+2013,Privacy & Security,1
+2013,Socioeconomic & Environmental Harms,0
+2013,Uncategorized,0
+2014,"AI system safety, failures, and limitations",7
+2014,Discrimination and Toxicity,3
+2014,Human-Computer Interaction,0
+2014,Malicious Actors & Misuse,1
+2014,Misinformation,0
+2014,Privacy & Security,1
+2014,Socioeconomic & Environmental Harms,1
+2014,Uncategorized,0
+2015,"AI system safety, failures, and limitations",10
+2015,Discrimination and Toxicity,7
+2015,Human-Computer Interaction,1
+2015,Malicious Actors & Misuse,2
+2015,Misinformation,0
+2015,Privacy & Security,3
+2015,Socioeconomic & Environmental Harms,1
+2015,Uncategorized,0
+2016,"AI system safety, failures, and limitations",18
+2016,Discrimination and Toxicity,16
+2016,Human-Computer Interaction,0
+2016,Malicious Actors & Misuse,3
+2016,Misinformation,1
+2016,Privacy & Security,1
+2016,Socioeconomic & Environmental Harms,2
+2016,Uncategorized,0
+2017,"AI system safety, failures, and limitations",19
+2017,Discrimination and Toxicity,15
+2017,Human-Computer Interaction,0
+2017,Malicious Actors & Misuse,4
+2017,Misinformation,2
+2017,Privacy & Security,9
+2017,Socioeconomic & Environmental Harms,1
+2017,Uncategorized,1
+2018,"AI system safety, failures, and limitations",22
+2018,Discrimination and Toxicity,14
+2018,Human-Computer Interaction,1
+2018,Malicious Actors & Misuse,1
+2018,Misinformation,0
+2018,Privacy & Security,5
+2018,Socioeconomic & Environmental Harms,2
+2018,Uncategorized,1
+2019,"AI system safety, failures, and limitations",14
+2019,Discrimination and Toxicity,16
+2019,Human-Computer Interaction,1
+2019,Malicious Actors & Misuse,5
+2019,Misinformation,2
+2019,Privacy & Security,6
+2019,Socioeconomic & Environmental Harms,0
+2019,Uncategorized,1
+2020,"AI system safety, failures, and limitations",31
+2020,Discrimination and Toxicity,32
+2020,Human-Computer Interaction,0
+2020,Malicious Actors & Misuse,16
+2020,Misinformation,5
+2020,Privacy & Security,5
+2020,Socioeconomic & Environmental Harms,1
+2020,Uncategorized,1
+2021,"AI system safety, failures, and limitations",37
+2021,Discrimination and Toxicity,18
+2021,Human-Computer Interaction,6
+2021,Malicious Actors & Misuse,7
+2021,Misinformation,4
+2021,Privacy & Security,5
+2021,Socioeconomic & Environmental Harms,2
+2021,Uncategorized,1
+2022,"AI system safety, failures, and limitations",32
+2022,Discrimination and Toxicity,25
+2022,Human-Computer Interaction,5
+2022,Malicious Actors & Misuse,20
+2022,Misinformation,11
+2022,Privacy & Security,10
+2022,Socioeconomic & Environmental Harms,2
+2022,Uncategorized,4
+2023,"AI system safety, failures, and limitations",27
+2023,Discrimination and Toxicity,24
+2023,Human-Computer Interaction,5
+2023,Malicious Actors & Misuse,65
+2023,Misinformation,35
+2023,Privacy & Security,12
+2023,Socioeconomic & Environmental Harms,1
+2023,Uncategorized,10
+2024,"AI system safety, failures, and limitations",32
+2024,Discrimination and Toxicity,30
+2024,Human-Computer Interaction,4
+2024,Malicious Actors & Misuse,155
+2024,Misinformation,51
+2024,Privacy & Security,17
+2024,Socioeconomic & Environmental Harms,3
+2024,Uncategorized,19
+2025,"AI system safety, failures, and limitations",37
+2025,Discrimination and Toxicity,25
+2025,Human-Computer Interaction,18
+2025,Malicious Actors & Misuse,237
+2025,Misinformation,66
+2025,Privacy & Security,24
+2025,Socioeconomic & Environmental Harms,3
+2025,Uncategorized,53
+2026,"AI system safety, failures, and limitations",13
+2026,Discrimination and Toxicity,5
+2026,Human-Computer Interaction,1
+2026,Malicious Actors & Misuse,49
+2026,Misinformation,18
+2026,Privacy & Security,11
+2026,Socioeconomic & Environmental Harms,3
+2026,Uncategorized,188

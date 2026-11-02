@@ -1,0 +1,53 @@
+﻿year,category_en,verdict_items,false_items
+2019,Disasters,7,7
+2019,Drugs,2,2
+2019,Economy,6,4
+2019,Finance & stocks,11,11
+2019,Government policy & news,18,15
+2019,Health products,13,10
+2019,Other news,8,8
+2019,Public order & security,13,13
+2020,Disasters,39,25
+2020,Economy,7,5
+2020,Finance & stocks,38,31
+2020,Government policy & news,350,224
+2020,Health products,570,538
+2020,Other news,29,29
+2020,Public order & security,26,26
+2021,Disasters,54,50
+2021,Economy,6,6
+2021,Finance & stocks,141,130
+2021,Government policy & news,498,249
+2021,Health products,506,467
+2021,Other news,53,49
+2021,Public order & security,109,109
+2022,Disasters,102,83
+2022,Economy,4,3
+2022,Finance & stocks,410,384
+2022,Government policy & news,847,374
+2022,Health products,797,734
+2022,Public order & security,41,40
+2023,Disasters,90,79
+2023,Finance & stocks,630,615
+2023,Government policy & news,1059,651
+2023,Health products,704,680
+2023,Other news,7,4
+2023,Public order & security,6,6
+2024,Disasters,123,86
+2024,Finance & stocks,539,511
+2024,Government policy & news,1276,839
+2024,Health products,509,443
+2024,Other news,14,12
+2024,Public order & security,1,1
+2025,Disasters,190,123
+2025,Drugs,2,0
+2025,Finance & stocks,595,570
+2025,Government policy & news,1184,733
+2025,Health products,356,244
+2025,Public order & security,292,194
+2026,Disasters,108,47
+2026,Finance & stocks,150,144
+2026,Government policy & news,1037,569
+2026,Health products,331,251
+2026,Online crime,355,355
+2026,Public order & security,195,172

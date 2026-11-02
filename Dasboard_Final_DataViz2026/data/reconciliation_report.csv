@@ -1,0 +1,16 @@
+﻿check,result,issues,status
+ACSC coverage (ข้อมูลก่อนช่วงเริ่มแถลงไม่ถือเป็น 0),48/409 สัปดาห์ (2025-11-09 ถึง 2026-10-18),0,INFO
+acsc_weekly duplicated week_start,0 duplicate starts,0,PASS
+acsc_weekly rows with days != 7,1 non-standard period(s); review flag and do not mix with 7-day weeks,1,WARN
+acsc_weekly negative cases/loss,0 row(s),0,PASS
+acsc_weekly loss_per_case != loss/cases,"0 row(s), tolerance 1 baht after rounding",0,PASS
+ACSC source weeks missing from panel after interval matching,0 unmatched source week(s),0,PASS
+Panel ACSC weeks missing from source after interval matching,0 unmatched panel week(s),0,PASS
+ACSC non-standard date-anchor matches,"[{'source_week_start': Timestamp('2026-05-30 00:00:00'), 'panel_week_start': Timestamp('2026-05-31 00:00:00'), 'source_days': 8.0, 'cases_match': True, 'loss_match_within_0_5pct': True}]",0,INFO
+panel vs acsc_weekly: cases differ,0 matched week(s),0,PASS
+panel vs acsc_weekly: loss differs > 0.5%,0 matched week(s),0,PASS
+panel afnc_fake vs afnc_items weekly count,0 mismatched week(s),0,PASS
+panel afnc_distorted vs afnc_items weekly count,0 mismatched week(s),0,PASS
+panel afnc_true vs afnc_items weekly count,0 mismatched week(s),0,PASS
+panel afnc_verdicts vs afnc_items weekly count,0 mismatched week(s),0,PASS
+afnc_items weeks missing from panel,0 week(s),0,PASS
